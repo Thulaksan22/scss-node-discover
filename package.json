@@ -1,0 +1,19 @@
+{
+  "name": "scss-node-discover",
+  "version": "1.0.0",
+  "description": "premiere modification",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Thulaksan22/scss-node-discover)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {}
+}
