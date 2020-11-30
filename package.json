@@ -13,7 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parcel-bundler": "^1.12.4"
+    "bootstrap": "^5.0.0-alpha3",
+    "parcel-bundler": "^1.12.4",
+    "scss": "^0.2.4"
   },
   "devDependencies": {}
 }
